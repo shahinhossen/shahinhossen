@@ -15,9 +15,6 @@ Hi there! I am Shahin Hossen. I am a pasionate full-stack MERN Developer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shahinhossen&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=shahinhossen&icon=0&color=0)](https://visitcount.itsvg.in)
 
