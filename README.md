@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I am Shahin Hossen. I am a pasionate full-stack MERN Developer
+Hi there! # I am Shahin Hossen. I am a pasionate full-stack MERN Developer
 
 
 ## 🌐 Socials:
